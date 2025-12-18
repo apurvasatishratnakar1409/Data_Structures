@@ -14,10 +14,13 @@ Contents
 
  How to Compile and Run
   For C language
-  gcc filename.c -o Myexe for linux : ./Myexe for Windows : Myexe.exe
+  gcc filename.c -o Myexe 
+  for linux : ./Myexe for Windows : Myexe.exe
 
   For C++
-  g++ filename.cpp -o output for linux : ./Myexe for Windows : Myexe.exe
+  g++ filename.cpp -o output 
+  for linux : ./Myexe for Windows : Myexe.exe
 
   For Java
-  javac filename.java java filename OR java filename.java
+  javac filename.java 
+  java filename OR java filename.java
